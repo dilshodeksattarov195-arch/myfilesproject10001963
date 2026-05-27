@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsupdate",
+        "uuid": 12661350,
+        "checksum": "gwzxlr"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
